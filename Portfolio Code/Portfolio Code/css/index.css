@@ -1,0 +1,63 @@
+.navbar-brand {
+    font-family: "work sans";
+    font-size: 24px;
+}
+.nav-item {
+    display: inline-flex;
+    padding-inline: 24px;
+    font-family: "raleway";
+    font-size: 18px;
+}
+
+.container {
+    margin: 0 auto;
+    padding-top: 36px;
+    padding-bottom: 36px;
+    max-width: 90%;
+}
+
+#container {
+    text-align: center;
+    margin: 0 auto;
+    padding: 24px;
+}
+
+#btnLearn {
+    display: block;
+    margin: auto;
+    font-family: "raleway";
+    font-size: 18px;
+}
+
+#btnfooter {
+    display: block;
+    margin: auto;
+}
+
+.socialM {
+    display: inline-flex;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Work Sans", 700;
+    font-size: 64px;
+}
+
+h2 {
+    text-align: center;
+    font-family: "raleway";
+    font-size: 32px;
+}
+
+p {
+    margin: 12px;
+    font-family: "raleway";
+    font-size: 20px;
+    padding: 6px;
+}
+
+.footer {
+    text-align: center;
+    margin: 0;
+}

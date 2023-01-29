@@ -1,0 +1,81 @@
+<!doctype html>
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/index.css">
+  <style>
+    body {
+      background-color:floralwhite;
+    }
+  </style>
+</head>
+<body>
+  <nav class="navbar navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">Eric Supinger</a>
+    <div class="right sm-width-full">
+        <a class="nav-item nav-link active" href="#">WORK<span class="sr-only">(current)</span></a>
+        <a class="nav-item nav-link" href="#">ABOUT</a>
+        <a class="nav-item nav-link" href="#">CONTACT</a>
+    </div>
+  </nav>
+  
+  <div class="container">
+    <div class="row">
+      <div class="col-md-7">
+        <h1>Hi, I'm Eric Supinger</h1>
+        <p>I am Eric Supinger, an aspiring UX/UI designer. I specialize in collaboration and communication and enjoy solving user problems that teachers may face with the technology in their classroom. My skills include generating ideas, finding solutions, and implementation.</p>
+        <p class="socialM">Linkedin</p>
+        <p class="socialM">Resume</p>
+      </div>
+      <div class="col-md-5">
+        <img src="images/Rectangle 2.png" style="width:100%">
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5">
+        <img src="images/Group 2.png" style="width: 100%">
+      </div>
+      <div class="col-md-7">
+        <h1>Own Your Thyme</h1>
+        <h2>UX/UI App Design - 3 Weeks</h2>
+        <p>As a part of a bootcamp, we were tasked to redesign a website for a non-profit for both mobile and desktop. My goal was to redesign the website in a way the created an easier and more consistent flow for the user.</p>
+        <div id="container">
+          <button id="btnLearn">Learn More</button>
+        </div>
+        <p>Tools: Figma and Miro</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-7">
+        <h1>House of Bread</h1>
+        <h2>Redesign - 3 Weeks</h2>
+        <p>As a part of a bootcamp, we were tasked to redesign a website for a non-profit for both mobile and desktop. My goal was to redesign the website in a way the created an easier and more consistent flow for the user.</p>
+        <div id="container">
+          <button id="btnLearn">Learn More</button>
+        </div>
+        <p>Tools: Figma and Miro</p>
+      </div>
+      <div class="col-md-5">
+        <img src="images/Frame 3.png" style="width: 100%">
+      </div>
+    </div>
+  </div>
+
+</body>
+<footer>
+  <div id="container">
+    <button id="btnFooter">Linkedin link</button>
+    <button id="btnFooter">Email link</button>
+  </div>
+  <p class="footer">eric supinger</p>
+  <p class="footer">copywrite 2023</p>
+</footer>
+</html>
+
